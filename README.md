@@ -1,4 +1,4 @@
-# Advisory-Project
+# Cybersecurity introduction
 The Cybersecurity introduction course included 40 Hours of Lectures, where complex concepts were explored and engaged in thought-provoking discussions.
 25 Labs, where theortical knowlegde gained was apllied in real-world scenarios, refining skills and gaining hands-on experience.
 9 Papers, each challenging and demonstrating ability to think critically, research thoroughly, and communicate effectively—cybersecurity extends beyond technology.
